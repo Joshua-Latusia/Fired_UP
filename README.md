@@ -1,3 +1,6 @@
+<h1 align="center">Fired Up - A Java Game with Wii controllers</h1>
+
+## Overview
 Fired up is a game I made during my first year with 5 other students.
 The game is written in Java.
 The game is played using a WiiMote and the Wii nunchuck per player. (2 players support).
